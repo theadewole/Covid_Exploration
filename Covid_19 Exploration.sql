@@ -1,4 +1,4 @@
---GALANCE VIEW COVID-DEATH DATASET 
+--GALANCE VIEW OF COVID-DEATH DATASET 
 SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM [Portfolio_Projects ]..CovidDeaths
 ORDER BY 1,2
