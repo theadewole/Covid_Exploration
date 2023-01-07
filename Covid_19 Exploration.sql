@@ -1,3 +1,7 @@
+# CoVID 19 Exploration Analysis
+## Skilled Used
+Aggregate Funtion |Where Clause  |CTE |Temp Table |Creating Views |Converting Data Types
+
 --GALANCE VIEW OF COVID-DEATH DATASET 
 SELECT location,date,total_cases,new_cases,total_deaths,population
 FROM [Portfolio_Projects ]..CovidDeaths
